@@ -5,8 +5,8 @@ You need to have [Docker](https://www.docker.com/) installed on your system to r
 ## Installation
 ### 1. Clone
 ```
-git clone https://github.com/Burush0/BasicDockerfile.git
-cd BasicDockerfile
+git clone https://github.com/Burush0/Basic-Dockerfile-Roadmap.sh.git
+cd Basic-Dockerfile-Roadmap.sh
 ```
 ### 2. Build
 `docker build -t roadmap .`
